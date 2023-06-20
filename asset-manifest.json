@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/series-game/static/css/main.3349702c.css",
-    "main.js": "/series-game/static/js/main.004abcb6.js",
-    "static/js/787.c74d0e55.chunk.js": "/series-game/static/js/787.c74d0e55.chunk.js",
-    "index.html": "/series-game/index.html",
-    "main.3349702c.css.map": "/series-game/static/css/main.3349702c.css.map",
-    "main.004abcb6.js.map": "/series-game/static/js/main.004abcb6.js.map",
-    "787.c74d0e55.chunk.js.map": "/series-game/static/js/787.c74d0e55.chunk.js.map"
+    "main.css": "/educational-game-series/static/css/main.3349702c.css",
+    "main.js": "/educational-game-series/static/js/main.d607251d.js",
+    "static/js/787.c74d0e55.chunk.js": "/educational-game-series/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/educational-game-series/index.html",
+    "main.3349702c.css.map": "/educational-game-series/static/css/main.3349702c.css.map",
+    "main.d607251d.js.map": "/educational-game-series/static/js/main.d607251d.js.map",
+    "787.c74d0e55.chunk.js.map": "/educational-game-series/static/js/787.c74d0e55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3349702c.css",
-    "static/js/main.004abcb6.js"
+    "static/js/main.d607251d.js"
   ]
 }
