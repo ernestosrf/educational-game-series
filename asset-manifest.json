@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/educational-game-series/static/css/main.3349702c.css",
+    "main.js": "/educational-game-series/static/js/main.8b911b8e.js",
+    "static/js/787.c74d0e55.chunk.js": "/educational-game-series/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/educational-game-series/index.html",
+    "main.3349702c.css.map": "/educational-game-series/static/css/main.3349702c.css.map",
+    "main.8b911b8e.js.map": "/educational-game-series/static/js/main.8b911b8e.js.map",
+    "787.c74d0e55.chunk.js.map": "/educational-game-series/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3349702c.css",
+    "static/js/main.8b911b8e.js"
+  ]
+}
