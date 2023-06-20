@@ -18,7 +18,7 @@ const stages = [
   { id: 3, name: "end" },
 ]
 
-const guessQty = 3
+const guessQty = 5
 
 function App() {
   const [gameStage, setGameStage] = useState(stages[0].name);
