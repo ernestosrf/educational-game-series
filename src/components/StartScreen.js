@@ -3,7 +3,7 @@ import './StartScreen.css'
 const StartScreen = ({startGame}) => {
   return (
     <div className="start">
-        <h1>Secret Word Series</h1>
+        <h1>Secret Word Educacional</h1>
         <p>Clique no botão abaixo para começar a jogar</p>
         <button onClick={startGame}>Começar o jogo</button>
     </div>
